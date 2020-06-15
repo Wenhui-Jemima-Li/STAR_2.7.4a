@@ -102,6 +102,10 @@ task star_align {
   runtime {
     docker:"jemimalwh/star:2.7.4a"
   }
+  
+  meta {
+    author: "Wenhui Li"       
+    }
   output {
     File star_align_bam="${outFileNamePrefix}.Aligned.sortedByCoord.out.bam"
   }
