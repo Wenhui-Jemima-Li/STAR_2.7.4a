@@ -1,0 +1,22 @@
+{
+  "STAR_aligner.outFilterMismatchNmax": "Int? (optional)",
+  "STAR_aligner.thread": "Int",
+  "STAR_aligner.alignSJDBoverhangMin": "Int? (optional)",
+  "STAR_aligner.outFilterType": "String? (optional)",
+  "STAR_aligner.sjdbOverhang": "Boolean? (optional)",
+  "STAR_aligner.genomeDir": "String",
+  "STAR_aligner.sjdbGTFfile": "File? (optional)",
+  "STAR_aligner.fastq": "File",
+  "STAR_aligner.outFileNamePrefix": "String",
+  "STAR_aligner.alignIntronMin": "Int? (optional)",
+  "STAR_aligner.sjdbInsertSave": "Boolean? (optional)",
+  "STAR_aligner.outFilterMismatchNoverReadLmax": "Int? (optional)",
+  "STAR_aligner.fastq2": "File? (optional)",
+  "STAR_aligner.alignSJoverhangMin": "Int? (optional)",
+  "STAR_aligner.alignMatesGapMax": "Int? (optional)",
+  "STAR_aligner.sjdbFileChrStartEnd": "File? (optional)",
+  "STAR_aligner.compress": "Boolean",
+  "STAR_aligner.outFilterMultimapNmax": "Int? (optional)",
+  "STAR_aligner.alignIntronMax": "Int? (optional)"
+}
+
